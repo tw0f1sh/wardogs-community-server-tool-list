@@ -30,14 +30,9 @@ Instead of distributing the master RCON password, the gateway allows individual 
 
 **Repository:** [wd-rcon-gateway-client](https://github.com/tw0f1sh/wd-rcon-gateway-client)
 
----
-
 <p align="center">
   <img src="preview/gui.png" alt="gui" width="470">
 </p>
-
----
-
 
 A portable Python GUI for administering a Wardogs server through the RCON API or RCON Gateway.
 
@@ -61,13 +56,9 @@ It provides a visual overview of the server and connected players while exposing
 
 **Repository:** [wd-discord-status](https://github.com/tw0f1sh/wd-discord-status)
 
----
-
 <p align="center">
   <img src="preview/preview.png" alt="preview" width="470">
 </p>
-
----
 
 A Discord bot that publishes the current Wardogs server status directly into a Discord channel.
 
