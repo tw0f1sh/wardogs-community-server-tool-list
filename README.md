@@ -135,11 +135,6 @@ The tools were developed around the **Wardogs RCON REST API** and are intended f
 
 Individual requirements, configuration options, supported API endpoints, and installation instructions can be found in each project's repository.
 
-## Contributions & Issues
-
-If you encounter a problem with a specific tool, please open an issue in the corresponding repository.
-
-Suggestions, improvements, and contributions are welcome.
 
 ## Disclaimer
 
